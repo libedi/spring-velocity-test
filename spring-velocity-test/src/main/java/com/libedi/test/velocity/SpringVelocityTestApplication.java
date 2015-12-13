@@ -1,0 +1,12 @@
+package com.libedi.test.velocity;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringVelocityTestApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringVelocityTestApplication.class, args);
+    }
+}
